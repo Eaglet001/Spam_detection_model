@@ -59,10 +59,9 @@ Spam_detection_model/
 │
 ├── app.py             # Main Streamlit application
 ├── model/             # Trained model and related scripts
-├── data/              # Sample datasets
-├── utils/             # Utility scripts (preprocessing, etc.)
+├── Spam_Detection_Project(NLP).ipynb / # Notebook          # 
 ├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
+
 ```
 
 ## Notes
